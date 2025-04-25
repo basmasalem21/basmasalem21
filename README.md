@@ -45,7 +45,7 @@
 
 ###
 
-<img align="left" height="500" src="https://media0.giphy.com/media/dlkWnHnls7N8aVCj2a/giphy.webp?cid=ecf05e479ea49mhrbtwwr61kse84mkx4h0h9cjtwoxwka5bn&ep=v1_gifs_search&rid=giphy.webp&ct=g"  />
+<img align="left" height="300" src="https://media0.giphy.com/media/dlkWnHnls7N8aVCj2a/giphy.webp?cid=ecf05e479ea49mhrbtwwr61kse84mkx4h0h9cjtwoxwka5bn&ep=v1_gifs_search&rid=giphy.webp&ct=g"  />
 
 ###
 
