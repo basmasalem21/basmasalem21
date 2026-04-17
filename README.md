@@ -1,56 +1,71 @@
-<h1 align="left">Hi 👋! My name is Basma Salem</h1>
+<div align="center">
 
-###
+# 👋 Hi, I'm Basma Salem
 
-<h1 align="left">Artificial Intelligence Engineer</h1>
+**AI Developer** — Building intelligent applications with NLP, LLMs & RAG
 
-###
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00c9a7?style=for-the-badge)](https://id-preview--398f9ce1-8f06-4fd7-b1c7-0e128b921e21.lovable.app)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+AI Developer with hands-on experience in building intelligent applications using NLP and LLMs. Passionate about applying AI to solve real-world problems.
+
+- 🎓 Bachelor of Computers and Information — Tanta University, Egypt (2021–2025)
+- 🌍 Based in Egypt
+- 💡 Interested in NLP, RAG, Chatbot Development & Prompt Engineering
+
+---
+
+## 🚀 Featured Projects
+
+### ⚖️ Egyptian Law AI Assistant (RAG System)
+> Built an AI-powered legal assistant to answer Egyptian law queries using LangChain and OpenAI API. Developed backend using Django and implemented document retrieval, chunking, and embeddings to improve response accuracy.
+
+**Tech:** `LangChain` `OpenAI API` `Django` `RAG`
+
+### 💙 Down Syndrome Support Web Application (Graduation Project)
+> Developed a full-stack web application to support children with Down syndrome and their caregivers. Features include tracking tools and an AI-powered voice chatbot with voice-to-text and text-to-text pipelines.
+
+**Tech:** `Full-Stack` `Voice AI` `NLP` `Accessibility`
+
+---
+
+## 🛠️ Technical Skills
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | Python |
+| **AI/ML** | NLP, LLMs, RAG, Text Processing |
+| **Frameworks** | Django, LangChain |
+| **Tools** | OpenAI API, Git |
+| **Concepts** | API Integration, Prompt Engineering, Chatbot Development |
+
+---
+
+## 💼 Experience
+
+| Role | Organization | Year |
+|------|-------------|------|
+| AI Developer Intern | Mega Dev, Tanta | 2023–2024 |
+| AI / Software Trainee | NTI (National Telecommunication Institute) | 2024 |
+| Software Development Trainee | ITI (Information Technology Institute) | 2024 |
+
+---
+
+## 📫 Get In Touch
+
+- 📧 Email: [basma@example.com](mailto:basma@example.com)
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/)
+- 🐙 GitHub: [Your GitHub](https://github.com/)
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basmasalem21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basmasalem21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+⭐ *Feel free to explore my repositories and reach out for collaborations!*
+
 </div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="50" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-</div>
-
-###
-
-<img align="left" height="300" src="https://media0.giphy.com/media/dlkWnHnls7N8aVCj2a/giphy.webp?cid=ecf05e479ea49mhrbtwwr61kse84mkx4h0h9cjtwoxwka5bn&ep=v1_gifs_search&rid=giphy.webp&ct=g"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/basmasalem21/basmasalem21/output/snake.svg" alt="Snake animation" />
-
-###
