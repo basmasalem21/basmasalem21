@@ -2,7 +2,9 @@
 
 # 👋 Hi, I'm Basma Salem
 
-**AI Enthusiast & Computer Science Student** — Passionate about building intelligent systems using AI & Machine Learning
+**AI Developer** — Building intelligent applications with NLP, LLMs & RAG
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00c9a7?style=for-the-badge)](https://id-preview--398f9ce1-8f06-4fd7-b1c7-0e128b921e21.lovable.app)
 
 </div>
 
@@ -10,26 +12,25 @@
 
 ## 🧠 About Me
 
-Computer Science student interested in Artificial Intelligence, Machine Learning, and building real-world intelligent applications.
+AI Developer with hands-on experience in building intelligent applications using NLP and LLMs. Passionate about applying AI to solve real-world problems.
 
-- 🎓 Bachelor Student — Final Year (2025)
-- 🌍 Based in Egypt  
-- 💡 Interested in AI, NLP, Machine Learning, and Chatbot Development  
-- 🚀 Currently improving my skills in Data Science and AI Engineering  
+- 🎓 Bachelor of Computers and Information — Tanta University, Egypt (2021–2025)
+- 🌍 Based in Egypt
+- 💡 Interested in NLP, RAG, Chatbot Development & Prompt Engineering
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🤖 AI Chatbot Project
-> A chatbot system designed to interact with users using natural language processing techniques.
+### ⚖️ Egyptian Law AI Assistant (RAG System)
+> Built an AI-powered legal assistant to answer Egyptian law queries using LangChain and OpenAI API. Developed backend using Django and implemented document retrieval, chunking, and embeddings to improve response accuracy.
 
-**Tech:** `Python` `NLP` `AI`
+**Tech:** `LangChain` `OpenAI API` `Django` `RAG`
 
-### 📊 Data Analysis Project
-> Analyzed datasets to extract insights and visualize patterns using Python tools.
+### 💙 Down Syndrome Support Web Application (Graduation Project)
+> Developed a full-stack web application to support children with Down syndrome and their caregivers. Features include tracking tools and an AI-powered voice chatbot with voice-to-text and text-to-text pipelines.
 
-**Tech:** `Python` `Pandas` `Matplotlib`
+**Tech:** `Full-Stack` `Voice AI` `NLP` `Accessibility`
 
 ---
 
@@ -37,29 +38,34 @@ Computer Science student interested in Artificial Intelligence, Machine Learning
 
 | Category | Skills |
 |----------|--------|
-| **Languages** | Python, C++, Java (if applicable) |
-| **AI/ML** | Machine Learning, NLP (basic/intermediate) |
-| **Tools** | Git, GitHub, Jupyter Notebook |
-| **Concepts** | Data Analysis, Problem Solving |
+| **Languages** | Python |
+| **AI/ML** | NLP, LLMs, RAG, Text Processing |
+| **Frameworks** | Django, LangChain |
+| **Tools** | OpenAI API, Git |
+| **Concepts** | API Integration, Prompt Engineering, Chatbot Development |
 
 ---
 
-## 📚 Education
+## 💼 Experience
 
-- 🎓 Bachelor of Computer Science — Egypt (Final Year)
+| Role | Organization | Year |
+|------|-------------|------|
+| AI Developer Intern | Mega Dev, Tanta | 2023–2024 |
+| AI / Software Trainee | NTI (National Telecommunication Institute) | 2024 |
+| Software Development Trainee | ITI (Information Technology Institute) | 2024 |
 
 ---
 
-## 📫 Contact Me
+## 📫 Get In Touch
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: your-linkedin-profile  
-- 🐙 GitHub: your-github-profile  
+- 📧 Email: basma@example.com
+- 💼 LinkedIn: https://linkedin.com/in/
+- 🐙 GitHub: https://github.com/
 
 ---
 
 <div align="center">
 
-⭐ *Always learning and building new things in AI*
+⭐ *Feel free to explore my repositories and reach out for collaborations!*
 
 </div>
