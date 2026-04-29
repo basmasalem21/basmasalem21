@@ -65,7 +65,7 @@
 
 AI Developer with hands-on experience in building intelligent applications using NLP and LLMs. Passionate about applying AI to solve real-world problems.
 
-- 🎓 Bachelor of Computers and Information — Tanta University, Egypt (2021–2025)
+- 🎓 Bachelor of Computers and Information — Tanta University, Egypt (2022–2026)
 - 🌍 Based in Egypt
 - 💡 Interested in NLP, RAG, Chatbot Development & Prompt Engineering
 
@@ -90,7 +90,7 @@ AI Developer with hands-on experience in building intelligent applications using
 | Category | Skills |
 |----------|--------|
 | **Languages** | Python |
-| **AI/ML** | NLP, LLMs, RAG, Text Processing |
+| **AI/ML** | NLP, LLMs, RAG, Text Processing,Fine Tuning |
 | **Frameworks** | Django, LangChain |
 | **Tools** | OpenAI API, Git |
 | **Concepts** | API Integration, Prompt Engineering, Chatbot Development |
