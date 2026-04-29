@@ -58,9 +58,8 @@ AI Developer with hands-on experience in building intelligent applications using
 
 ## 📫 Get In Touch
 
-- 📧 Email: basma@example.com
-- 💼 LinkedIn: https://linkedin.com/in/
-- 🐙 GitHub: https://github.com/
+- 📧 Email: basmasalem2172004@gmail.com
+- 💼 LinkedIn: [https://linkedin.com/in/](https://www.linkedin.com/in/basmasalem21/)
 
 ---
 
