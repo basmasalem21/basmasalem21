@@ -2,6 +2,12 @@
 
 # 👋 Hi, I'm Basma Salem
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+.NET+@+ITI" alt="Typing SVG" />
+</p>
+
+<br>
+
 **AI Developer** — Building intelligent applications with NLP, LLMs & RAG
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00c9a7?style=for-the-badge)](https://id-preview--398f9ce1-8f06-4fd7-b1c7-0e128b921e21.lovable.app)
