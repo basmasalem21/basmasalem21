@@ -10,7 +10,7 @@
   <a href="https://basmasalemportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-basmasalemportfolio.vercel.app-00c9a7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://drive.google.com/file/d/1523JBrQE9ggO-Bt2vEaK4bvswM1cs5BB/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1PxvtakOTsRJa_9ves7oIqouGwSBTnyzc/view" target="_blank">
     <img src="https://img.shields.io/badge/CV-View%20Resume-0078d4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" />
   </a>
   <a href="https://www.linkedin.com/in/basmasalem21/" target="_blank">
